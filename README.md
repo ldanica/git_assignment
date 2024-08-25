@@ -9,9 +9,9 @@ b. What is a pull request?
 A pull request is asking to merge changes from one branch into another. They show the differences between the content in the source branch and the content in the target branch.
 
 c. Describe the steps to open a pull request?
-1. Clone the original repository into our local server using git clone command and the url link of the repo
+1. Clone the original repository onto your local server using git clone command and the url link of the repository
 2. Change your working directory to the repository you cloned
-3. Create a new branch and switch your working directory to the new branch
+3. Create a new branch 
 4. Change your working directory to the new branch
 5. Start making changes on your local server
 6. Stage, commit, and then push your changes to the new branch
@@ -19,10 +19,10 @@ c. Describe the steps to open a pull request?
 8. In the base branch menu, select the branch of the upstream repository you would like to merge your changes into
 9. In the compare menu, select your branch that you made changes in
 10. Type a title and description for your pull request
-11. Complete pull request
+11. Complete pull request and merge pull request
 
 d. Describe the steps to add a collaborator to a repository (share write permissions)
-1. On GitHub, go to repository you want to give access to and click on settings
+1. On GitHub, go to the repository you want to give access to and click on settings
 2. Click on collaborators
 3. Search by username, full name, or email and add collaborator
 
