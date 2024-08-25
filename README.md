@@ -1,9 +1,11 @@
 # Git Assignment - ldanica
 
 a. What is an issue?
+
 On GitHub, issues are items you can create in a repository to plan, discuss, and track work. It can be used to track changes, for feedback and collaboration, and to communicate with other team members.
 
 b. What is a pull request?
+
 A pull request is asking to merge changes from one branch into another. They show the differences between the content in the source branch and the content in the target branch.
 
 c. Describe the steps to open a pull request?
@@ -25,11 +27,13 @@ d. Describe the steps to add a collaborator to a repository (share write permiss
 3. Search by username, full name, or email and add collaborator
 
 e. What is the difference between git and GitHub?
+
 Git is a version control software that tracks changes in files. It's particularly useful for when you are collaborating with many people who are making changes to the same files simultaneously.
 
 GitHub is a cloud-based platform that's built upon Git. It allows you to store, share, and collaborate to write code.
 
 f. What does git diff do?
+
 If we made changes in our working directory and didn't run git add, git diff compares what changes were made in our local directory to what is in our staging area. 
 
 g. What is the main branch?
