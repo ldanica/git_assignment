@@ -37,4 +37,9 @@ f. What does git diff do?
 If we made changes in our working directory and didn't run git add, git diff compares what changes were made in our local directory to what is in our staging area. 
 
 g. What is the main branch?
+
+When you create a new repository on GitHub, it does so with a single/default branch. This default branch is called the main branch.
+
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+If you are working alone and testing things out, you could push your changes directly to the main branch. However, it's best practice to create separate branches for testing as the main branch should act as a working final version. Once you made your changes on your branch, make a pull request. If any issues arise after merging, it's much easier to revert a pull request than to comb through the main branch and undo each commit.
